@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Pacman\Pacman\bin\Debug\net6.0-windows\Pacman.exe
+C:\Users\User\Desktop\Pacman\Pacman\bin\Debug\net6.0-windows\Pacman.deps.json
+C:\Users\User\Desktop\Pacman\Pacman\bin\Debug\net6.0-windows\Pacman.runtimeconfig.json
+C:\Users\User\Desktop\Pacman\Pacman\bin\Debug\net6.0-windows\Pacman.dll
+C:\Users\User\Desktop\Pacman\Pacman\bin\Debug\net6.0-windows\Pacman.pdb
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.Form1.resources
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.Properties.Resources.resources
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.AssemblyInfo.cs
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.dll
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\refint\Pacman.dll
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.pdb
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\Pacman.genruntimeconfig.cache
+C:\Users\User\Desktop\Pacman\Pacman\obj\Debug\net6.0-windows\ref\Pacman.dll
